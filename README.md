@@ -1,4 +1,4 @@
-### Hello my name is Jose Garcia, I am a Computer Science Major At Florida Atlantic University and this is is where i store all my projects that I been working on. Hope you enjoy 
+### Hello my name is Jose Garcia, I am a Computer Science Major At Florida Atlantic University and this is is where I store all my projects that I been working on. Hope you enjoy 
 
 <!--
 **garciabel212/garciabel212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
